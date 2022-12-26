@@ -1,0 +1,15 @@
+.footer{
+    width: 100%;
+    color: #fff;
+    min-height: 100px;
+    position: relative;
+    background: #21262c;
+    bottom: 0;
+}
+.footer .first,.second,.third{
+    width: 300px;
+}
+
+.footer,div,span{
+    color: darkgray;
+}
